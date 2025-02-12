@@ -14,7 +14,7 @@ The project explores the capabilities of **text-to-image generation**, optimizin
 📦 Image-Generation-StableDiffusion
 │-- 📁 images/               # AI-generated images
 │-- 📄 README.md             # Project documentation
-│-- 📄 LICENSE               # (If applicable)
+│-- 📄 LICENSE              
 ```
 - 📁 **images/** → Collection of AI-generated images.  
 
@@ -28,15 +28,6 @@ The project explores the capabilities of **text-to-image generation**, optimizin
 
 ---
 
-## **🚀 How to Improve This Repo**  
-✅ Add **model configuration files & workflows** for reproducibility.  
-✅ Upload **Comfy UI workflow screenshots** to help others understand the process.  
-✅ Provide a **guide on how to run the model** locally.  
-✅ Expand with **new styles, prompts, and fine-tuning techniques**.  
-✅ Include a **Colab notebook or script** to generate images.  
-
----
-
 ## **📌 Future Work**  
 - Implement **fine-tuned Stable Diffusion models** for more personalized generations.  
 - Explore **LoRA, ControlNet, and Hypernetworks** to improve image quality.  
@@ -45,7 +36,7 @@ The project explores the capabilities of **text-to-image generation**, optimizin
 ---
 
 ## **📜 License**  
-This project follows **[Insert License Name]**. Please review the license before using these images for commercial purposes.  
+This project follows **MIT LICENSE**. Please review the license before using these images for commercial purposes.  
 
 ---
 
